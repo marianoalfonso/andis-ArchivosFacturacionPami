@@ -1,0 +1,2 @@
+analizar los archivos para grabar log
+generar reporte de migracion
