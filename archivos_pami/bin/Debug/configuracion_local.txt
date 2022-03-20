@@ -1,0 +1,10 @@
+[AUTHENTICATION]
+SCOPE=local
+[DATABASE_CREDENTIALS]
+DATA_SOURCE=desktop-work
+INITIAL_CATALOG=liquidaciones_pami
+USER_ID=usrLiquidacionesPami
+PASSWORD=usrLiquidacionesPami
+CONNECTION_TIMEOUT=0
+[PATHS]
+NEW_FILES=C:\projects\andis\incluirSalud\archivosPami\sandbox

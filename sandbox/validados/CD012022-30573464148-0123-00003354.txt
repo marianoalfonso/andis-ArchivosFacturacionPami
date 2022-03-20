@@ -1,0 +1,20 @@
+[STATUS]
+SF=closed
+[HEADER]
+PRESTADOR=Asoc.Civil Peq.Obra de la Div.Providenc.
+CUIT=30-57346414-8
+PERIODOFACTURADO=01-2022
+NUMEROFACTURA=0123-00003354
+[DETAIL]
+40507517160900
+HEREDIA MARINA
+Prestacion
+HOGAR CON CENTRO DE DIA
+111275,0
+endline
+[BOTTOM]
+TotalPrestacion=111275,00
+TotalTransporte=0,00
+TotalApoyo=0,00
+TotalMatricula=0,00
+CheckSum=335

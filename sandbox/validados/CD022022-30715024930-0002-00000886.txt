@@ -1,0 +1,20 @@
+[STATUS]
+SF=closed
+[HEADER]
+PRESTADOR=Fundación Beatriz Ramseyer
+CUIT=30715024930
+PERIODOFACTURADO=02-2022
+NUMEROFACTURA=0002-00000886
+[DETAIL]
+40507457070800
+MAURO FERREYRA
+Prestacion
+CET
+72710,20
+endline
+[BOTTOM]
+TotalPrestacion=72710,20
+TotalTransporte=0,00
+TotalApoyo=0,00
+TotalMatricula=0,00
+CheckSum=298
