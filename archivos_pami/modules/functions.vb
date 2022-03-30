@@ -1,4 +1,6 @@
-﻿Module functions
+﻿Imports System.Data.SqlClient
+
+Module functions
 
     Function loadConectionString() As Boolean
         Dim configFile As String = Application.StartupPath & "\configuracion_local.txt"
@@ -13,6 +15,18 @@
             Return True
         Catch ex As Exception
             MsgBox("error generando la cadena de conexion . . .", vbCritical)
+            Return False
+        End Try
+    End Function
+
+    Function testConnection() As Boolean
+        Dim conn As New SqlConnection(gsConnectionString)
+        Try
+            conn.Open()
+            conn.Close()
+            Return True
+        Catch ex As Exception
+            MessageBox.Show("error al intentar conectar con la DB")
             Return False
         End Try
     End Function

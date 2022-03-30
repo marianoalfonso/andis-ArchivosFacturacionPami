@@ -4,9 +4,11 @@
         InitializeComponent()
         ' Add any initialization after the InitializeComponent() call.
         If loadConectionString() Then
-            If loadGlobalVariables() Then
-                startMonitorA()
-                'startMonitorB()
+            If testConnection() Then
+                If loadGlobalVariables() Then
+                    startMonitorA()
+                    'startMonitorB()
+                End If
             End If
         Else
             MessageBox.Show("error obteniendo datos de configuracion")

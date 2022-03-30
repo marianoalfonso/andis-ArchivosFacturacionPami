@@ -31,3 +31,14 @@ C:\projects\andis\incluirSalud\archivosPami\archivos_pami\obj\Debug\archivos_pam
 C:\projects\andis\incluirSalud\archivosPami\archivos_pami\obj\Debug\archivos_pami.Form1.resources
 C:\projects\andis\incluirSalud\archivosPami\archivos_pami\obj\Debug\archivos_pami.Resources.resources
 C:\projects\andis\incluirSalud\archivosPami\archivos_pami\obj\Debug\archivos_pami.vbproj.GenerateResource.Cache
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\bin\Debug\archivos_pami.exe.config
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.exe
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.xml
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.pdb
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\bin\Debug\archivos_pami.exe
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\bin\Debug\archivos_pami.pdb
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\bin\Debug\archivos_pami.xml
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.vbprojResolveAssemblyReference.cache
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.Form1.resources
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.Resources.resources
+C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\archivos_pami\obj\Debug\archivos_pami.vbproj.GenerateResource.Cache
