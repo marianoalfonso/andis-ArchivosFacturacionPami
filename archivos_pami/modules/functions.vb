@@ -19,16 +19,18 @@ Module functions
         End Try
     End Function
 
+    'chequeamos el estado de la base de datos
     Function testConnection() As Boolean
         Dim conn As New SqlConnection(gsConnectionString)
+        Dim connStatus As Boolean = False
         Try
             conn.Open()
             conn.Close()
-            Return True
+            connStatus = True
         Catch ex As Exception
             MessageBox.Show("error al intentar conectar con la DB")
-            Return False
         End Try
+        Return connStatus
     End Function
 
     Function loadGlobalVariables() As Boolean
