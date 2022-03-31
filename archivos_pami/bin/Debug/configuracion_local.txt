@@ -7,4 +7,4 @@ USER_ID=usrLiquidacionesPami
 PASSWORD=usrLiquidacionesPami
 CONNECTION_TIMEOUT=0
 [PATHS]
-NEW_FILES=C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\sandbox
+NEW_FILES=C:\projects\andis\incluirSalud\andis-ArchivosFacturacionPami\sandbox\
